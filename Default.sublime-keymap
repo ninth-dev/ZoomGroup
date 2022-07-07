@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["shift", "shift"],
+        "command": "toggle_zoom_group"
+    }
+]
